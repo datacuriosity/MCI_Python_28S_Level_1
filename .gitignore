@@ -128,14 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Assignments/Session_04/sample_data.csv
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_1.html
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_1.ipynb
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_1_solution.html
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_1_solution.ipynb
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_2.html
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_2.ipynb
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_2_solution.html
-Lectures/PhamHa_Lecture/numpy_exercises/phamha_numpy_homework_2_solution.ipynb
 Lectures/PhamHa_Lecture/pandas_exercises/01_Getting_&_Knowing_Your_Data/Chipotle/Exercise_with_Solutions.ipynb
 Lectures/PhamHa_Lecture/pandas_exercises/01_Getting_&_Knowing_Your_Data/Chipotle/Exercises.ipynb
 Lectures/PhamHa_Lecture/pandas_exercises/01_Getting_&_Knowing_Your_Data/Chipotle/quynhnt_Solutions.ipynb
